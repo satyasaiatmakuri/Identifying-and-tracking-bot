@@ -8,4 +8,4 @@ Connect the Rpi to the sensors as shown below:
 
 ![image](https://user-images.githubusercontent.com/78465461/141924318-d9f42df7-5665-4040-8c24-23c28a3bd6c1.png)
 # code
-The code is written in python as Raspberry pi uses python the code for this is in code
+The code is written in python as Raspberry pi uses python the code for this is in code.txt
