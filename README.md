@@ -5,3 +5,4 @@ In this era of globalisation,where science and technology has rised tremendously
 Before Starting setup raspberry pi using the reference == > SetUp
 
 Connect the Rpi to the sensors as shown below:
+![image](https://user-images.githubusercontent.com/78465461/141924318-d9f42df7-5665-4040-8c24-23c28a3bd6c1.png)
